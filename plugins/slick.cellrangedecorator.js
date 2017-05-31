@@ -24,6 +24,12 @@
       selectionCss: {
         "zIndex": "9999",
         "border": "2px dashed red"
+      },
+      offset: {
+        top: -1,
+        left: -1,
+        height: -2,
+        width: -2
       }
     };
 
